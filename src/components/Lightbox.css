@@ -2,8 +2,8 @@
   /* Colors */
   --lightbox-bg: rgba(0, 0, 0, 0.9);
   --lightbox-content-bg: #111;
-  --lightbox-text: #fff;
-  --lightbox-text-secondary: #aaa;
+  --lightbox-text: #000;
+  --lightbox-text-secondary: #000;
   --lightbox-button-bg: rgba(0, 0, 0, 0.7);
   --lightbox-button-hover: rgba(255, 255, 255, 0.2);
   --lightbox-nav-bg: rgba(255, 255, 255, 0.1);
@@ -167,9 +167,9 @@
   width: 30px;
   height: 30px;
   margin-left: 10px;
-  border: 3px solid rgba(255, 255, 255, 0.3);
+  border: 3px solid rgba(0, 0, 0, 0.3);
   border-radius: 50%;
-  border-top-color: #fff;
+  border-top-color: #000;
   animation: spin 1s ease-in-out infinite;
 }
 

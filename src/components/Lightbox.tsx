@@ -1,14 +1,9 @@
 import React, { useState, useEffect } from 'react';
 import './Lightbox.css';
-
-interface GalleryImage {
-  src: string;
-  description: string;
-  date: string;
-}
+import { GalleryImageWithStringDate } from '../types/gallery';
 
 interface LightboxProps {
-  image: GalleryImage | null;
+  image: GalleryImageWithStringDate | null;
   onClose: () => void;
   onNext: () => void;
   onPrev: () => void;
