@@ -19,25 +19,15 @@ const formatDate = (date: Date): string => {
 
 const images: GalleryImage[] = [
   {
-    src: 'k1.jpeg',
+    src: 'f1.jpg',
     description: 'dummy image',
     date: new Date('2024-05-15')
   },
   {
-    src: 'k2.jpeg',
+    src: 'f2.jpg',
     description: 'dummy image',
     date: new Date('2024-05-20')
   },
-  {
-    src: 'k3.jpg',
-    description: 'dummy image',
-    date: new Date('2024-05-25')
-  },
-  {
-    src: 'k4.jpeg',
-    description: 'dummy image',
-    date: new Date('2024-05-30')
-  }
 ];
 
 
