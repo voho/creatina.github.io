@@ -2,16 +2,60 @@ import { GalleryImage } from '../types/gallery';
 
 const images: GalleryImage[] = [
   {
-    src: 'f1.jpg',
-    description: 'dummy image 1',
-    date: new Date('2024-05-15')
+    src: '/images/IMG_6719.jpg',
+    description: 'Murder Drones character',
+    date: new Date('2025-06-16')
   },
   {
-    src: 'f2.jpg',
-    description: 'dummy image 2',
-    date: new Date('2024-05-20')
+    src: '/images/IMG_6720.jpg',
+    description: 'Murder Drones character',
+    date: new Date('2025-06-16')
   },
-  // Add more images as needed
+  {
+    src: '/images/IMG_6721.jpg',
+    description: 'Murder Drones character',
+    date: new Date('2025-06-16')
+  },
+  {
+    src: '/images/IMG_6833.jpg',
+    description: 'Murder Drones character',
+    date: new Date('2025-06-16')
+  },
+  {
+    src: '/images/IMG_7089.jpg',
+    description: 'Murder Drones character',
+    date: new Date('2025-06-16')
+  },
+  {
+    src: '/images/IMG_7264.jpg',
+    description: 'Murder Drones character',
+    date: new Date('2025-06-16')
+  },
+  {
+    src: '/images/IMG_8735.jpg',
+    description: 'Dandys World character',
+    date: new Date('2025-06-16')
+  },
+  {
+    src: '/images/IMG_8736.jpg',
+    description: 'Dandys World character',
+    date: new Date('2025-06-16')
+  },
+  {
+    src: '/images/IMG_8737.jpg',
+    description: 'Dandys World character',
+    date: new Date('2025-06-16')
+  },
+  {
+    src: '/images/IMG_8738.jpg',
+    description: 'Dandys World character',
+    date: new Date('2025-06-16')
+  },
+  {
+    src: '/images/IMG_8739.jpg',
+    description: 'Dandys World character',
+    date: new Date('2025-06-16')
+  }
 ];
 
 export default images; 
