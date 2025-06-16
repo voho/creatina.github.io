@@ -4,32 +4,32 @@ const images: GalleryImage[] = [
   {
     src: 'IMG_6719.jpg',
     description: 'Murder Drones character',
-    date: new Date('2025-06-16')
+    date: new Date('2025-04-01')
   },
   {
     src: 'IMG_6720.jpg',
     description: 'Murder Drones character',
-    date: new Date('2025-06-16')
+    date: new Date('2025-04-01')
   },
   {
     src: 'IMG_6721.jpg',
     description: 'Murder Drones character',
-    date: new Date('2025-06-16')
+    date: new Date('2025-04-01')
   },
   {
     src: 'IMG_6833.jpg',
     description: 'Murder Drones character',
-    date: new Date('2025-06-16')
+    date: new Date('2025-04-01')
   },
   {
     src: 'IMG_7089.jpg',
     description: 'Murder Drones character',
-    date: new Date('2025-06-16')
+    date: new Date('2025-04-01')
   },
   {
     src: 'IMG_7264.jpg',
     description: 'Murder Drones character',
-    date: new Date('2025-06-16')
+    date: new Date('2025-04-01')
   },
   {
     src: 'IMG_8735.jpg',
