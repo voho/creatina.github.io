@@ -58,4 +58,7 @@ const images: GalleryImage[] = [
   }
 ];
 
+// sort by date, desc
+images.sort((a, b) => b.date.getTime() - a.date.getTime())
+
 export default images; 
