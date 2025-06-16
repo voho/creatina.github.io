@@ -18,7 +18,7 @@ const ImageCard: React.FC<ImageCardProps> = ({ image, onClick }) => (
     </div>
     <div className="image-info">
       <h3>{image.description}</h3>
-      <span className="date">{image.date.toLocaleDateString()}</span>
+      <span className="date">{image.date.getMonth()}/{image.date.getFullYear()}</span>
     </div>
   </div>
 );

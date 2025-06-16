@@ -5,6 +5,7 @@
   --lightbox-text: #000;
   --lightbox-text-secondary: #000;
   --lightbox-button-bg: rgba(0, 0, 0, 0.7);
+  --lightbox-button-fg: rgba(255, 255, 255, 0.7);
   --lightbox-button-hover: rgba(255, 255, 255, 0.2);
   --lightbox-nav-bg: rgba(255, 255, 255, 0.1);
   
@@ -114,7 +115,7 @@
 .close-button,
 .nav-button {
   background: var(--lightbox-button-bg);
-  color: var(--lightbox-text);
+  color: var(--lightbox-button-fg);
   border: none;
   width: var(--lightbox-button-size);
   height: var(--lightbox-button-size);
