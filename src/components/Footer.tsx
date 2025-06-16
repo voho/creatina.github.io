@@ -3,7 +3,7 @@ import './Footer.css';
 
 const Footer = () => (
   <footer className="footer">
-    <p>© {new Date().getFullYear()} All images are property of Tina. Do not copy or use without permission.</p>
+    <p>© {new Date().getFullYear()} All images drawn by Tina. Some of them are based on popular characters.</p>
   </footer>
 );
 
